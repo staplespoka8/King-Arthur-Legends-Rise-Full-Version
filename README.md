@@ -239,3 +239,6 @@ This repository serves as the official landing page for King Arthur: Legends Ris
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of King Arthur: Legends Rise today!**
+
+---
+**Last updated:** 2026-09-12 16:06:15 UTC
