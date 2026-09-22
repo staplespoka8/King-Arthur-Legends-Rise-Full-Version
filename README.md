@@ -241,4 +241,4 @@ This repository serves as the official landing page for King Arthur: Legends Ris
 **Get the most recent version of King Arthur: Legends Rise today!**
 
 ---
-**Last updated:** 2026-09-21 23:56:17 UTC
+**Last updated:** 2026-09-22 04:29:55 UTC
